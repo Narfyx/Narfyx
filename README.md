@@ -62,7 +62,7 @@ my_portfolio.showcase_skills()
 
 **IDE**
 
-VSCodium<img width="25" height="25" align="center" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" />
+VSCodium<img width="25" height="25" align="left" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" />
 
 
 
