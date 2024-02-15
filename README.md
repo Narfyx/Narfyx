@@ -62,7 +62,8 @@ my_portfolio.showcase_skills()
 
 **IDE**
 
-<img width="25" height="25" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" /><h4>VSCodium</h4>
+<img width="25" height="25" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" />
+VSCodium
 
 
 **Virtualization**
