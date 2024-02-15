@@ -31,7 +31,7 @@ class Portfolio:
 
 my_portfolio = Portfolio()
 my_portfolio.introduce()
-my_portfolio.showcase_skills()
+
 
 
 my_portfolio.add_language("Python")
