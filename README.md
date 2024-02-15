@@ -55,6 +55,7 @@ my_portfolio.showcase_skills()
 **Operating system I use**
 
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+I like risk
 
 **Terminal**
 
