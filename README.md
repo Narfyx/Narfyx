@@ -61,8 +61,9 @@ my_portfolio.showcase_skills()
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 **IDE**
-<img width="25" height="25" align="left" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" />
-![Vscodium]()
+
+<img width="25" height="25" src="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" />
+
 
 **Virtualization**
 
