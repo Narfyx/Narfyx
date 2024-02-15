@@ -28,16 +28,16 @@ class Portfolio:
         self.languages_known.append(language)
         print(f"{language} has been added to my repertoire!")
 
-# Let's create and showcase the portfolio
+
 my_portfolio = Portfolio()
 my_portfolio.introduce()
 my_portfolio.showcase_skills()
 
-# Adding some languages
+
 my_portfolio.add_language("Python")
 my_portfolio.add_language("JavaScript")
 
-# Showcase again
+
 my_portfolio.showcase_skills()
 
 ```
