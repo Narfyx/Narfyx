@@ -22,7 +22,7 @@ class Portfolio:
             for language in self.languages_known:
                 print(f"- {language}")
         else:
-            print("I'm currently learning and mastering various programming languages... Sorry ! ", "\U0001F605")
+            print("I'm in the process of learning and mastering different programming languages... Sorry ! ", "\U0001F605")
 
     def add_language(self, language):
         self.languages_known.append(language)
