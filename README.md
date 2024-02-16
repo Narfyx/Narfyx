@@ -40,7 +40,7 @@ my_portfolio.add_language("JavaScript")
 my_portfolio.showcase_skills()
 
 ```
-<img src="header.svg" width="800" height="8">
+<img src="header.svg" width=100% height="8">
 
 ## 🔧 Technologies & Tools
 
