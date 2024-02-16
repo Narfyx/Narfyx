@@ -1,0 +1,61 @@
+<svg fill="none" viewBox="0 0 800 8" width="800" height="8" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+
+
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					justify-content: center;
+					flex-direction: column;
+					margin: 0;
+				        text-align: center;
+					width: 100%;
+					height: 8px;
+					background: linear-gradient(45deg, #ff83d3, #a28be7, #659cff, #37ff42, #ffd03e, #ffb057, #ff4c55);
+					background-size: 400% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 2px;
+					color: white;
+				}
+
+				h1 {
+					font-size: 40px;
+					line-height: 0;
+					base
+					letter-spacing: 2px;
+					text-shadow:
+						0 1px 0 #ababab,
+						0 6px 4px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+
+				
+			</style>
+			<div class="container">
+				<!-- <h1 id="hello-world-i-m-tris-">🐢 Hey! I&#39;m Murphy 🌱</h1> -->
+			</div>
+		</div>
+	</foreignObject>
+</svg>
